@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=rufnummer\ provider
+comment0.target=SmsHandy(java.lang.String,\ Provider)
+comment1.params=abonent
+comment1.target=boolean\ Exist(java.lang.String)
+comment2.params=sms
+comment2.target=void\ empfangeSms(Nachricht)
+comment3.params=empfaenger\ message
+comment3.target=void\ sendeSms(java.lang.String,\ java.lang.String)
+comment4.params=empfaenger\ message
+comment4.target=void\ sendeSms(SmsHandy,\ java.lang.String)
+comment5.params=operator
+comment5.target=void\ wechselProvider(Provider)
+comment6.params=
+comment6.target=java.lang.String\ gibRufnummerZurueck()
+comment7.params=
+comment7.target=void\ listeEmpfangeneSms()
+comment8.params=
+comment8.target=void\ listeGesendeteSms()
+comment9.params=n
+comment9.target=void\ gebeNachrichtAus(Nachricht)
+numComments=10
